@@ -1,0 +1,5 @@
+PGHOST=pgpool
+PGUSER=postgres
+PGPASSWORD=postgres
+PGDATABASE=myshop
+PGPORT=5432
